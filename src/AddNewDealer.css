@@ -1,0 +1,60 @@
+.addNewDealer {
+    padding: 3rem;
+    width: 80%;
+    margin: auto;
+}
+
+.addNewDealerForm {
+    border: 2px solid #000;
+    min-height: 100vh;
+    /* min-width: 80vw; */
+    border-radius: 0.5rem;
+}
+
+.addNewDealer h1 {
+    background-color: rgb(78, 115, 115);
+    color: #fff;
+    padding: 0.5rem;
+    overflow: hidden;
+}
+
+.dealerInfo {
+    min-width: 75%;
+    width: 75%;
+    margin: auto;
+    display: flex;
+    margin-top: 3rem;
+}
+
+.dealerInfo .fieldName {
+    width: 25%;
+    padding: 0.5rem;
+}
+
+.dealerInfo .fieldInput {
+    width: 75%;
+}
+
+.addDealerBtn {
+    min-width: 75%;
+    width: 75%;
+    margin: auto;
+    display: flex;
+    gap: 2rem;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.addDealerBtn button {
+    height: 3rem;
+    width: 9rem;
+    border-radius: 8px;
+    background-color: transparent;
+}
+
+.addDealerBtn button:hover {
+    background-color: rgb(78, 115, 115);
+    color: #fff;
+    cursor: pointer;
+}

@@ -1,0 +1,44 @@
+{
+  "dealers": [
+    {
+      "id": 1,
+      "dealerId": 34089,
+      "dealerName": "Toyota of Plano",
+      "addressLine1": "9300 Coit Rd",
+      "addressLine2": "Suite 513",
+      "city": "Plano",
+      "state": "Texas",
+      "zipCode": 75025
+    },
+    {
+      "id": 2,
+      "dealerId": 50010,
+      "dealerName": "Seeger Toyota",
+      "addressLine1": "6626 Headquarters Dr",
+      "addressLine2": "",
+      "city": "Little Elm",
+      "state": "Texas",
+      "zipCode": 76628
+    },
+    {
+      "id": 3,
+      "dealerId": 71124,
+      "dealerName": "Cooley Toyota",
+      "addressLine1": "125 Dragonfly Lane",
+      "addressLine2": "",
+      "city": "Denver",
+      "state": "Colorado",
+      "zipCode": 83124
+    },
+    {
+      "id": 4,
+      "dealerId": "41127",
+      "dealerName": "Joseph Toyota",
+      "addressLine1": "7951 Collin McKinney Pkwy",
+      "addressLine2": "Suite 661",
+      "city": "McKinney",
+      "state": "Texas",
+      "zipCode": "75070"
+    }
+  ]
+}

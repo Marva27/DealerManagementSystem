@@ -1,0 +1,31 @@
+.dealersTable {
+    width: 80%;
+    margin: auto;
+}
+
+.actionButtons {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1rem;
+}
+
+.actionButtons button {
+    background-color: transparent;
+    height: 1.5rem;
+    width: 1.5rem;
+    border: none;
+}
+
+.editDealer svg:hover {
+    color: steelblue;
+}
+
+.deleteDealer svg:hover {
+    color: crimson;
+}
+
+.apiError {
+    color: crimson;
+    font-size: 2rem;
+    text-align: center;
+}
